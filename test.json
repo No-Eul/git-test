@@ -1,0 +1,20 @@
+{
+  "string": "Hello, world!",
+  "number": 3.141592653589793,
+  "boolean": true,
+  "null": null,
+  "undefined": undefined,
+  "nan": NaN,
+  "inf": Infinity,
+  "array": ["Lorem", "Ipsum", "Dolor", "Sit", "Amet"],
+  "object": {
+    "string": "Hello, world!",
+    "number": 3.141592653589793,
+    "boolean": true,
+    "null": null,
+    "undefined": undefined,
+    "nan": NaN,
+    "inf": Infinity,
+    "array": ["Lorem", "Ipsum", "Dolor", "Sit", "Amet"]
+  }
+}
